@@ -1,0 +1,1 @@
+INSERT INTO `todo` VALUES (1, 'Test 1', TRUE, FALSE), (2, 'Test 2', TRUE, FALSE), (3, 'Test 3', FALSE, TRUE);
